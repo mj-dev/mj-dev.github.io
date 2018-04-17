@@ -87,3 +87,5 @@ The api start on port http://localhost:8080
 * Le template assigne la MR au lead developer, ajoute le label pending-review, et met en copie le chef de projet
 
 * Pour chaque push sur la branche master, des scripts de test sont exécutés et un deploiement sur heroku est lancé
+
+* Nous utilisons JS Hint qui permet de valider le code JS pour la version ES6
